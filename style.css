@@ -3,29 +3,16 @@ body {
     background-color: bisque;
 }
 .container img{
-    max-width:200px;
-    max-height: 100px;
+    max-width:100px;
+    max-height: 80px;
     width:auto;
     height: auto;
+    width: 40%;
+    height: 40%;
 }
-
-.h1 {
-    color:blue;
-}
-
-.h2 {
-
-    color:brown;
-    
-}@import url("style/header.css");
-body {
-    background-color: bisque;
-}
-.container img{
-    max-width:200px;
-    max-height: 100px;
-    width:auto;
-    height: auto;
+footer{
+    background-color:#191717;
+    color:antiquewhite;
 }
 
 .h1 {
